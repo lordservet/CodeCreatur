@@ -1,0 +1,9 @@
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\bin\Debug\KodCreatur.exe.config
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\bin\Debug\KodCreatur.exe
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\bin\Debug\KodCreatur.pdb
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.csprojResolveAssemblyReference.cache
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.Form1.resources
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.Properties.Resources.resources
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.csproj.GenerateResource.Cache
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.exe
+F:\visual studio 2010\Projects\harici_calisma\KodCreatur\KodCreatur\obj\Debug\KodCreatur.pdb
